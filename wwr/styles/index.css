@@ -16,6 +16,9 @@ nav a:hover{
     background-color: #F8D12A;
     color: #000;
 }
+#hero-img{
+    width: 100%;
+}
 #hero-msg{
     width: 100%;
 }
