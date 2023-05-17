@@ -1,0 +1,9 @@
+body{
+    box-sizing: border-box;
+}
+p{
+    width: 50%;
+    padding: 1rem;
+    border: 1vw dashed aqua;
+    margin: 1vh;
+}
