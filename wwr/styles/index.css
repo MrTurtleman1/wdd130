@@ -36,6 +36,7 @@ nav a:hover{
     font-family: "Palatino", "Times New Roman", serif;
     font-size: 2em;
     margin-top: 10px;
+    text-align: center;
 }
 #content{
     max-width: 1600px;
@@ -46,6 +47,7 @@ nav a:hover{
 }
 h4{
     color: #000;
+    text-align: center;
 }
 h2{
     margin: 0;
