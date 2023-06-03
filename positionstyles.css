@@ -160,6 +160,7 @@
   justify-content: right;
   order: 2;
   box-sizing: border-box;
+  float: left;
 } 
 .yellow5 {
   width: 100%; 
