@@ -1,0 +1,40 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+}
+img{
+    grid-column: 1/4;
+    width: auto;
+    margin: 0 auto;
+}
+.main{
+    grid-column: 1/4;
+    text-align: center;
+}
+h1{
+    color: darkblue;
+    font-size: small;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+.f1{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    grid-column: 1/2;
+}
+.f2{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    grid-column: 2/3;
+}
+.f3{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    grid-column: 3/4;
+}
